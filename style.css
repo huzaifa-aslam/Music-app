@@ -1,0 +1,87 @@
+body {
+    font-family: 'Akronim';
+}
+
+h1 {
+    text-align: center;
+}
+
+.fa-music {
+    margin: 5px;
+}
+
+main div {
+    color: transparent
+}
+
+main {
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 550px;
+    margin: auto;
+    border: 1px solid;
+}
+
+div {
+    width: 30%;
+    height: 160px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.a {
+    background-image: url('image/img1.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.b {
+    background-image: url('image/img2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.c {
+    background-image: url('image/img1.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.d {
+    background-image: url('image/img3.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.e {
+    background-image: url('image/img1.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.f {
+    background-image: url('image/img2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.g {
+    background-image: url('image/img1.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.h {
+    background-image: url('image/img3.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.i {
+    background-image: url('image/img2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
